@@ -23,7 +23,9 @@ Telemetry: psutil, ROCm-SMI
 UI: Streamlit
 
 **Models**
-The project requires a .onnx model to run. Due to file size limits, download the sample model from the link below and place it in the project root folder:
+
+The project requires a .onnx model to run. Due to file size limits, download the sample model from the link below and place it in the project root folder: 
+
               https://github.com/onnx/models
 
 **AMD Implementation**
