@@ -26,4 +26,5 @@ UI: Streamlit
 
 This project is built to take advantage of AMD's unified ecosystem. It uses DirectML to talk to Radeon GPUs and Ryzen AI (NPU), and leverages Zen CPU cores for logic-heavy tasks where GPUs usually struggle with latency.
 
-_**This project is solely created for AMD Slingshot Hackathon 2026 comducted in partnership with Hack2Skill.**_
+
+🔴 _**This project is solely created for AMD Slingshot Hackathon 2026 comducted in partnership with Hack2Skill.**_
