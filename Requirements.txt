@@ -1,0 +1,10 @@
+Streamlit
+onnx
+onnxruntime-directml
+scikit-optimize
+numpy<2.0.0
+pandas
+psutil
+pyopencl
+plotly
+Pillow
