@@ -22,6 +22,10 @@ Hardware Backends: DirectML (for AMD Windows), ROCm (for AMD Linux), OpenCL (to 
 Telemetry: psutil, ROCm-SMI
 UI: Streamlit
 
+**Models**
+The project requires a .onnx model to run. Due to file size limits, download the sample model from the link below and place it in the project root folder:
+              https://github.com/onnx/models
+
 **AMD Implementation**
 
 This project is built to take advantage of AMD's unified ecosystem. It uses DirectML to talk to Radeon GPUs and Ryzen AI (NPU), and leverages Zen CPU cores for logic-heavy tasks where GPUs usually struggle with latency.
